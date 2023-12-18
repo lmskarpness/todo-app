@@ -23,5 +23,14 @@
 hs_err_pid*
 replay_pid*
 
-# .idea files
-*.idea
+# ignore DS_Store files
+*.DS_Store
+
+# ignore output files
+out/
+
+# IDE's project files
+.idea/
+
+# .iml files
+*.iml
