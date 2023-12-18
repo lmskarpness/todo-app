@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.Button?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/10.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.Main">
+    <children>
+        <!-- Add your UI components here -->
+        <!--<Button text="Click Me" layoutX="20" layoutY="20"/>-->
+    </children>
+</AnchorPane>
